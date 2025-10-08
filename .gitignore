@@ -1,0 +1,7 @@
+# Env files
+.env
+.env.*
+*.env
+# keep examples tracked
+!.env.example
+!.env.*.example
